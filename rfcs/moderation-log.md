@@ -108,6 +108,6 @@ refers to. Requests may only be submitted by participants or their
 representatives.
 
 The Moderation Team reserves the right to scrub any existing lines at will,
-based on team consensus, at their best judgment, but unless the matter is
-absolutely extreme, must retain basic information about events as mentioned
-above.
+based on team consensus, at their best judgment. Unless the matter is
+absolutely extreme, the log entry must retain basic information about events
+as mentioned above.
