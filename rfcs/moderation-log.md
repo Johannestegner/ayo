@@ -1,24 +1,6 @@
 # RFC - Moderation Action Log
 
-Ever since the [Ayo.js Code of
-Conduct](https://github.com/ayojs/ayo/blob/latest/CODE_OF_CONDUCT.md) was
-ratified, the Moderation Team has been entrusted with following the processes
-described there in order to promote the general health and safety of the
-community.
-
-A reality of this is that, while the documented moderation process emphasizes
-the importance of community members solving conflicts amongst themselves, the
-Moderation Team itself has to get involved sometimes and apply the further
-enforcement procedures.
-
-### Summary of RFC Actions
-
-* Create a moderation log spreadsheet with the required columns.
-* Grant full public read access to anyone with the link.
-* Grant full edit access to Moderation Team members.
-* Add a link to the log directly to `CODE_OF_CONDUCT.md`.
-
-### Keeping a Log
+### Introduction
 
 In the interest of openness and transparency, this RFC proposes that the
 Moderation Team be required to keep a **public** log of actions taken whenever
@@ -30,6 +12,13 @@ changed after running into a particular situation or pattern of situations. This
 must also be balanced with other concerns, such as privacy, and should be
 designed such that it does not lead to the harassment or defamation of anyone
 involved.
+
+### Summary of RFC Actions
+
+* Create a moderation log spreadsheet with the required columns.
+* Grant full public read access to anyone with the link.
+* Grant full edit access to Moderation Team members.
+* Add a link to the log directly to `CODE_OF_CONDUCT.md`.
 
 ### Keeping a Balance
 
